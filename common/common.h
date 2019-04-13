@@ -1524,6 +1524,7 @@ typedef enum UTM_DATA_AVAIL_FLAGS
 #include "./mavlink_msg_debug_float_array.h"
 #include "./mavlink_msg_orbit_execution_status.h"
 
+#include "./mavlink_msg_filter_angle.h"
 // base include
 
 
